@@ -3,7 +3,7 @@
 
 #### 1. Download and Install Raspberry Pi Imager
 1. **Download** the Raspberry Pi Imager from the [official Raspberry Pi website](https://www.raspberrypi.com/software/).
-2. **Install** the software on your computer by following the installation instructions for your operating system (Windows, macOS, or Ubuntu).
+2. **Install** the software on your computer by following the installation instructions for your operating system (Windows, macOS, or Linux).
 
 #### 2. Prepare the MicroSD Card
 1. Insert the microSD card into your computer’s SD card reader.
